@@ -73,12 +73,24 @@ As we mentiond above, Problem solving is very important skill for programmers, a
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />HackerRank badges<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
-  </h1>
+
 
 ![Screenshot (193)](https://user-images.githubusercontent.com/80456446/143663538-ade30d98-3aaf-4fab-8d88-48c5ef94d518.png)
 
-
+  </h1>
   <br/>  <br/>
+  
+  
+  
+  <h1 align="center">
+  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />HackerRank Certificates<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
+
+![Problem solving (basics)](https://user-images.githubusercontent.com/80456446/143724712-208e27d5-f5ba-4baf-9ca4-52c423860fb4.png)
+
+
+  </h1>
+  <br/>  <br/>
+  
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />  Just follow☝️ me and Star⭐ my repository<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
   </h1>
