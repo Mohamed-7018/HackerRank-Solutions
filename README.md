@@ -11,7 +11,7 @@
 
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  /> Hackerrank Solutionsr<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
+  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  /> Hackerrank Solutions<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
   </h1>
 
   <img src="https://media0.giphy.com/media/Ztzt8zhmmpVPUiSNMX/200.gif" align="left" width="270" hspace="10" vspace="10">
