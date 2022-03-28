@@ -76,8 +76,6 @@ As we mentiond above, Problem solving is very important skill for programmers, a
 
 ![hackerrank](https://user-images.githubusercontent.com/80456446/160396155-39de1c83-f07d-409f-9624-db472da4bfd5.png)
 
-    <!-- ![2](https://user-images.githubusercontent.com/80456446/143735282-e1d7c14f-52c0-4d6e-a054-d554477f1041.png)
- -->
 
  </h1>
   <br/>  <br/>
