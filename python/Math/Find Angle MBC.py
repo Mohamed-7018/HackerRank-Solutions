@@ -1,5 +1,6 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 
+from cgi import test
 import math
 
 ab= int(input())
@@ -15,3 +16,6 @@ theta= round( math.degrees(math.acos(bc/ac)))
 
 print(str(theta)+chr(176))
 
+
+
+#print(str(theta)+chr(176))
